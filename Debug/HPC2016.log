@@ -1,0 +1,22 @@
+﻿  Vector2.cpp
+  Util.cpp
+  Timer.cpp
+  Stage.cpp
+  Simulator.cpp
+  Ship.cpp
+  Recorder.cpp
+  RandomSeed.cpp
+  Random.cpp
+  Parameter.cpp
+  Math.cpp
+  Main.cpp
+  Laser.cpp
+  Game.cpp
+  Asteroid.cpp
+  Answer.cpp
+c:\hpc2016\src\answer.cpp(601): warning C4244: '初期化中': 'double' から 'real' への変換です。データが失われる可能性があります。
+c:\hpc2016\src\answer.cpp(996): warning C4100: 'aStage': 引数は関数の本体部で 1 度も参照されません。
+  Action.cpp
+  コードを生成中...
+  HPC2016.vcxproj -> C:\hpc2016\Debug\HPC2016.exe
+  HPC2016.vcxproj -> C:\hpc2016\Debug\HPC2016.pdb (Full PDB)
